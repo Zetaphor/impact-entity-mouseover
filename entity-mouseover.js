@@ -1,5 +1,5 @@
 ig.module(
-    'game.plugins.entity-mouseover'
+    'plugins.entity-mouseover'
 )
 .requires(
     'impact.entity'
